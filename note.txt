@@ -1,0 +1,67 @@
+##MileStones
+    #Homepage
+        - Navbar
+        - Hero
+        - Clients
+        - Services
+        - Feature
+        - Feature 2
+        - Mission Statement
+        - Goal
+        - Footer
+    
+    #LQS Team
+        - Navbar
+        - Hero
+        - Feature
+        - Team Gallery
+        - Each Member details
+
+    #Care Services we provide
+        - Navbar
+        - Hero
+        - Services
+        - Mission Statement
+        - Footer
+
+    #Review 
+        - Navbar
+        - Hero
+        - Reviews
+        - Footer
+
+    #Contact
+        - Navbar
+        - Hero
+        - Contact Form 
+        - Footer
+
+
+
+##Pages
+    - Homepage
+    - LQS Team
+    - Care Services we provide
+    - Review 
+    - Contact
+
+
+
+##Sections/Components
+    - Navbar
+    - Hero
+    - Clients
+    - Services
+    - Services Card
+    - Feature
+    - Mission Statement
+    - Goal 
+    - Footer
+    - Team Gallery
+    - Member details
+    - Reviews
+    - Contact Form
+
+
+
+
