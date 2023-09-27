@@ -1,0 +1,85 @@
+:root {
+  --bg-color: #fff;
+  --primary-color: #4c4c8a;
+  --secondary-color: #cd7f3d;
+  --text-color: #000;
+  --feature-color: #8282ad;
+  --footer-color: #44447c;
+  --transition: #0.5s ease-in-out;
+  --shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  --accent-hover: #b97237;
+  --border-color: #dbdbe8;
+  --placeholder: #a7a7a7;
+  --paragraph-texts: #3c3c3c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 600;
+}
+
+p {
+  color: var(--paragraph-texts);
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  padding: 5rem 200px;
+}
+
+.card {
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+}
+
+.btn {
+  border: none;
+  color: var(--bg-color);
+  font-weight: 400;
+  padding: 15px;
+  transition: var(--transition);
+  width: max-content;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.primary-btn {
+  background-color: var(--footer-color);
+}
+
+.primary-btn:hover {
+  background-color: var(--feature-color);
+}
+
+.secondary-color {
+  background-color: var(--secondary-color);
+}
+
+.secondary-color:hover {
+  background-color: var(--accent-hover);
+}
+
+.textfield {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  outline: none;
+  padding: 10px 0;
+}
+
+::placeholder {
+  color: var(--placeholder);
+}

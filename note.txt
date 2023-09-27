@@ -13,8 +13,7 @@
     #LQS Team
         - Navbar
         - Hero
-        - Feature
-        - Team Gallery
+         - Team Gallery
         - Each Member details
 
     #Care Services we provide
@@ -22,7 +21,7 @@
         - Hero
         - Services
         - Mission Statement
-        - Footer
+        - Footer  
 
     #Review 
         - Navbar
