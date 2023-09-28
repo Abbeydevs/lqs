@@ -5,7 +5,7 @@
   --text-color: #000;
   --feature-color: #8282ad;
   --footer-color: #44447c;
-  --transition: #0.5s ease-in-out;
+  --transition: 0.5s ease-in-out;
   --shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   --accent-hover: #b97237;
   --border-color: #dbdbe8;
@@ -28,6 +28,7 @@ p {
 
 a {
   text-decoration: none;
+  color: var(--text-color);
 }
 
 li {
