@@ -49,6 +49,7 @@ li {
   border: none;
   color: var(--bg-color);
   font-weight: 400;
+  font-family: Rubik, sans-serif;
   padding: 15px;
   transition: var(--transition);
   width: max-content;
@@ -70,6 +71,10 @@ li {
 
 .secondary-color:hover {
   background-color: var(--accent-hover);
+}
+
+.outline-btn {
+  background: transparent;
 }
 
 .textfield {

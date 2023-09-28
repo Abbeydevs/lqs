@@ -5,11 +5,13 @@ import Homepage from "./pages/home/Home";
 import Review from "./pages/review/Review";
 import Services from "./pages/services/Services";
 import Team from "./pages/team/Team";
+import ScrollToTop from "./helpers/ScrollToTop";
 
 function App() {
   return (
     <>
       <HashRouter>
+        <ScrollToTop />
         <Routes>
           <Route path="*" element="404 page" />
           <Route exact path="/" element={<Homepage />} />

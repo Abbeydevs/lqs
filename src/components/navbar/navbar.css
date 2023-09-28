@@ -1,0 +1,60 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bg-color);
+  box-shadow: var(--shadow);
+  border-radius: 20px;
+  padding: 10px 50px;
+  width: 90%;
+  margin: auto;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 5%;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+.nav-divider {
+  width: 1px;
+  height: 30px;
+  background-color: var(--primary-color);
+}
+
+.nav-links button {
+  color: var(--text-color);
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.icon-style {
+  background: var(--primary-color);
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  text-align: center;
+  position: relative;
+}
+
+.icon {
+  position: absolute;
+  top: 25%;
+  right: 25%;
+  font-size: 15px;
+  color: var(--bg-color);
+}
