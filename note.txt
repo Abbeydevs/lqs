@@ -2,13 +2,13 @@
     #Homepage
         - Navbar -- Done
         - Hero -- Done
-        - Clients
-        - Services
-        - Feature
-        - Feature 2
-        - Mission Statement
-        - Goal
-        - Footer
+        - Clients -- Done
+        - Services -- Done                     5-6am
+        - Feature                       6-7am
+        - Feature 2                     7-8am
+        - Mission Statement             8-9am
+        - Goal                          9-10am
+        - Footer                        10-11am
     
     #LQS Team
         - Navbar

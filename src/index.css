@@ -43,7 +43,7 @@ li {
 }
 
 .card {
-  padding: 20px;
+  padding: 30px 50px;
   border-radius: 20px;
   box-shadow: var(--shadow);
 }
@@ -68,11 +68,11 @@ li {
   background-color: var(--feature-color);
 }
 
-.secondary-color {
+.secondary-btn {
   background-color: var(--secondary-color);
 }
 
-.secondary-color:hover {
+.secondary-btn:hover {
   background-color: var(--accent-hover);
 }
 
@@ -103,12 +103,5 @@ li {
   .container {
     width: 100%;
     padding: 5rem 20px;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  .container {
-    width: 100%;
-    padding: 5rem 10px;
   }
 }
