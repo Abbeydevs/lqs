@@ -21,28 +21,28 @@
         - Hero   -- Done                          2-3pm
         - Services -- Done                         3-4pm
         - Mission Statement                 4-5pm
-        - Footer                            5-6pm
+        - Footer    --Done                         5-6pm
 
     #Review 
         - Navbar --Done
-        - Hero                              6-7pm
-        - Reviews                           7-8pm
-        - Footer                            8-9pm
+        - Hero   --Done                      6-7pm
+        - Reviews    --Done             7-8pm
+        - Footer     --Done                    8-9pm
 
     #Contact
         - Navbar --Done
-        - Hero                              9-10pm
-        - Contact Form                      10-11pm 
-        - Footer                            11-12am
+        - Hero   --Done                 9-10pm 
+        - Contact Form   --Done                  10-11pm 
+        - Footer          --Done                  11-12am
 
 
 
 ##Pages
     - Homepage -- Done
     - LQS Team --Done
-    - Care Services we provide
-    - Review 
-    - Contact
+    - Care Services we provide --Done
+    - Review --Done
+    - Contact --Done
 
 
 
@@ -53,13 +53,13 @@
     - Services --Done
     - Services Card --Done
     - Feature --Done
-    - Mission Statement
-    - Goal 
-    - Footer
-    - Team Gallery
-    - Member details
-    - Reviews
-    - Contact Form
+    - Mission Statement --Done
+    - Goal  --Done
+    - Footer    --Done
+    - Team Gallery  --Done
+    - Member details    --Done
+    - Reviews   --Done
+    - Contact Form  --Done
 
 
 

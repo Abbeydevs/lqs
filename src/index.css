@@ -80,16 +80,18 @@ li {
   background: transparent;
 }
 
-.textfield {
-  background: transparent;
+.textfield,
+textarea {
+  background: #fcfcfc;
   border: 1px solid var(--border-color);
-  border-radius: 10px;
+  border-radius: 5px;
   outline: none;
-  padding: 10px 0;
+  padding: 20px;
 }
 
 ::placeholder {
   color: var(--placeholder);
+  font-size: 14px;
 }
 
 @media screen and (max-width: 990px) {

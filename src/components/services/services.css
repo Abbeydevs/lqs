@@ -1,5 +1,6 @@
 .service-container {
   background-color: var(--bg-color);
+  margin-top: 2rem;
 }
 
 .services-column {

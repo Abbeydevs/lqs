@@ -1,5 +1,13 @@
+import Hero from "../../components/review-hero/Hero";
+import ClientReview from "../../components/reviews/ClientReview";
+
 const Review = () => {
-  return <h1>Review page</h1>;
+  return (
+    <>
+      <Hero />
+      <ClientReview />
+    </>
+  );
 };
 
 export default Review;

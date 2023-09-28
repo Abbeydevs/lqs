@@ -1,0 +1,42 @@
+.form-container {
+  text-align: center;
+}
+
+.form-container form {
+  width: 70%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin-top: 2rem;
+}
+
+.form-container form .names {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.form-container form .names div {
+  width: 100%;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+form button {
+  margin-top: 2rem;
+  width: 200px !important;
+}
+
+@media screen and (max-width: 700px) {
+  .form-container form {
+    width: 100%;
+  }
+}

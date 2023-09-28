@@ -15,7 +15,7 @@ const ServiceGrid = () => {
           services we provide:
         </p>
       </div>
-      <Services title="All Services" />
+      <Services title="" links="" />
     </div>
   );
 };

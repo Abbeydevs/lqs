@@ -1,0 +1,29 @@
+.cr-container h1 {
+  color: var(--secondary-color);
+  margin-bottom: 20px;
+}
+
+.data-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  margin-top: 50px;
+}
+
+.data-grid .card p.name {
+  color: var(--secondary-color);
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.review-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 850px) {
+  .data-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

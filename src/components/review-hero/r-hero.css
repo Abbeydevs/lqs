@@ -1,0 +1,22 @@
+.r-hero-container {
+  background-image: url(../../images/review-hero-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: max-content;
+  padding-top: 10rem;
+  padding: 15rem 0;
+  text-align: center;
+}
+
+.r-hero-container h1 {
+  color: var(--bg-color);
+  font-size: 49px;
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .r-hero-container h1 {
+    font-size: 29px;
+  }
+}
