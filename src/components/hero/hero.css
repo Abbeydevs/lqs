@@ -1,6 +1,6 @@
 .hero-container {
   background-color: var(--hero-bg-color);
-  background-image: url(../../images/hero-front.png);
+  background-image: url(../../images/contact-hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -8,27 +8,28 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 10rem;
+  padding: 15rem 200px;
+  text-align: center;
 }
 
 .texts {
-  width: 50%;
+  width: 100%;
 }
 
 .texts h1 {
-  width: 80%;
-  color: var(--feature-color);
+  width: 100%;
+  color: var(--bg-color);
   font-weight: 400;
 }
 
 .texts h1 span {
-  color: var(--primary-color);
+  color: var(--secondary-color);
   font-weight: 700;
 }
 
 .texts p {
   width: 100%;
-  color: var(--text-color);
+  color: var(--bg-color);
   margin: 10px 0 30px;
 }
 

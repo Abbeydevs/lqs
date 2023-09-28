@@ -14,9 +14,9 @@ const Hero = () => {
         </p>
         <button className="btn primary-btn">Contact us</button>
       </div>
-      <div className="img">
+      {/* <div className="img">
         <img src={heroImage} alt="Hero" />
-      </div>
+      </div> */}
     </div>
   );
 };
