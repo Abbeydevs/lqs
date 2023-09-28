@@ -1,5 +1,6 @@
 :root {
   --bg-color: #fff;
+  --hero-bg-color: #dbdbe8;
   --primary-color: #4c4c8a;
   --secondary-color: #cd7f3d;
   --text-color: #000;
@@ -37,7 +38,7 @@ li {
 
 .container {
   width: 100%;
-  padding: 5rem 200px;
+  padding: 5rem 70px;
 }
 
 .card {
@@ -88,4 +89,25 @@ li {
 
 ::placeholder {
   color: var(--placeholder);
+}
+
+@media screen and (max-width: 990px) {
+  .container {
+    width: 100%;
+    padding: 5rem 40px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .container {
+    width: 100%;
+    padding: 5rem 20px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .container {
+    width: 100%;
+    padding: 5rem 10px;
+  }
 }

@@ -1,6 +1,6 @@
 ##MileStones
     #Homepage
-        - Navbar
+        - Navbar -- Done
         - Hero
         - Clients
         - Services
@@ -47,7 +47,7 @@
 
 
 ##Sections/Components
-    - Navbar
+    - Navbar -- Done
     - Hero
     - Clients
     - Services

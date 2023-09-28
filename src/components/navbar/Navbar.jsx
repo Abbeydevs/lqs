@@ -13,7 +13,7 @@ const Navbar = () => {
   };
 
   return (
-    <>
+    <div className="nav-container">
       <nav className="navigation">
         <Link to="/">
           <img src={logo} alt="Company Logo" />
@@ -42,7 +42,7 @@ const Navbar = () => {
           <Hamburger size={25} />
         </div>
       </nav>
-    </>
+    </div>
   );
 };
 
