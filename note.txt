@@ -1,7 +1,7 @@
 ##MileStones
     #Homepage
         - Navbar -- Done
-        - Hero
+        - Hero -- Done
         - Clients
         - Services
         - Feature
@@ -48,7 +48,7 @@
 
 ##Sections/Components
     - Navbar -- Done
-    - Hero
+    - Hero -- Done
     - Clients
     - Services
     - Services Card
