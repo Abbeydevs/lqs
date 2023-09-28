@@ -1,0 +1,18 @@
+.ms-container {
+  text-align: center;
+}
+
+.ms-card {
+  margin-top: 30px;
+  padding: 5rem 100px;
+}
+
+.ms-card p {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .ms-card {
+    padding: 2rem 20px;
+  }
+}

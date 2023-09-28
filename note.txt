@@ -3,34 +3,34 @@
         - Navbar -- Done
         - Hero -- Done
         - Clients -- Done
-        - Services -- Done                     5-6am
-        - Feature                       6-7am
-        - Feature 2                     7-8am
-        - Mission Statement             8-9am
-        - Goal                          9-10am
+        - Services -- Done                 
+        - Feature  -- Done              
+        - Feature 2 -- Done  
+        - Mission Statement --Done
+        - Goal   --Done
         - Footer                        10-11am
     
     #LQS Team
-        - Navbar
+        - Navbar --Done
         - Hero
          - Team Gallery
         - Each Member details
 
     #Care Services we provide
-        - Navbar
+        - Navbar --Done
         - Hero
         - Services
         - Mission Statement
         - Footer  
 
     #Review 
-        - Navbar
+        - Navbar --Done
         - Hero
         - Reviews
         - Footer
 
     #Contact
-        - Navbar
+        - Navbar --Done
         - Hero
         - Contact Form 
         - Footer
@@ -49,10 +49,10 @@
 ##Sections/Components
     - Navbar -- Done
     - Hero -- Done
-    - Clients
-    - Services
-    - Services Card
-    - Feature
+    - Clients -- Done
+    - Services --Done
+    - Services Card --Done
+    - Feature --Done
     - Mission Statement
     - Goal 
     - Footer

@@ -1,0 +1,35 @@
+.blue-card {
+  background: linear-gradient(113deg, #171729 36.1%, #2c2c51 75.58%);
+  padding: 50px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.blue-card img {
+  width: 350px;
+}
+
+.bc-contents h1,
+.bc-contents p {
+  margin: 20px 0;
+  color: var(--bg-color);
+}
+
+.bc-contents button {
+  margin-top: 20px;
+  width: 150px;
+}
+
+@media screen and (max-width: 910px) {
+  .blue-card img {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .blue-card img {
+    display: none;
+  }
+}
