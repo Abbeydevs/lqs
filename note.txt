@@ -8,37 +8,37 @@
         - Feature 2 -- Done  
         - Mission Statement --Done
         - Goal   --Done
-        - Footer                        10-11am
+        - Footer --Done 
     
     #LQS Team
         - Navbar --Done
-        - Hero
-         - Team Gallery
-        - Each Member details
+        - Hero                              11-12pm
+         - Team Gallery                     12-1pm
+        - Each Member details               1-2pm
 
     #Care Services we provide
         - Navbar --Done
-        - Hero
-        - Services
-        - Mission Statement
-        - Footer  
+        - Hero                              2-3pm
+        - Services                          3-4pm
+        - Mission Statement                 4-5pm
+        - Footer                            5-6pm
 
     #Review 
         - Navbar --Done
-        - Hero
-        - Reviews
-        - Footer
+        - Hero                              6-7pm
+        - Reviews                           7-8pm
+        - Footer                            8-9pm
 
     #Contact
         - Navbar --Done
-        - Hero
-        - Contact Form 
-        - Footer
+        - Hero                              9-10pm
+        - Contact Form                      10-11pm 
+        - Footer                            11-12am
 
 
 
 ##Pages
-    - Homepage
+    - Homepage -- Done
     - LQS Team
     - Care Services we provide
     - Review 
