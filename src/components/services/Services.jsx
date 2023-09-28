@@ -4,10 +4,10 @@ import serviceCard from "./service-data";
 
 import "./services.css";
 
-const Services = () => {
+const Services = ({ title }) => {
   return (
     <div className="container service-container">
-      <h1>Our Services</h1>
+      <h1>{title}</h1>
       <div className="services-column">
         {serviceCard.map(({ title, description, link }) => {
           return (

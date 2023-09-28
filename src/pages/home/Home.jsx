@@ -5,19 +5,17 @@ import MissionStatements from "../../components/mission-statements/MissionStatem
 import Services from "../../components/services/Services";
 import Strive from "../../components/strive/Strive";
 import Goal from "../../components/goal/Goal";
-import Footer from "../../components/footer/Footer";
 
 const Homepage = () => {
   return (
     <>
       <Hero />
       <Clients />
-      <Services />
+      <Services title="Our Services" />
       <Features />
       <Strive />
       <MissionStatements />
       <Goal />
-      <Footer />
     </>
   );
 };

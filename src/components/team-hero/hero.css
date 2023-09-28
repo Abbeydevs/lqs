@@ -1,0 +1,22 @@
+.team-hero-container {
+  background-image: url(../../images/team-hero-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: max-content;
+  width: 100%;
+  padding: 15rem 0;
+  text-align: center;
+}
+
+.team-hero-container h1 {
+  color: var(--bg-color);
+  font-size: 49px;
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .team-hero-container h1 {
+    font-size: 29px;
+  }
+}

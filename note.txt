@@ -12,14 +12,14 @@
     
     #LQS Team
         - Navbar --Done
-        - Hero                              11-12pm
-         - Team Gallery                     12-1pm
-        - Each Member details               1-2pm
+        - Hero    --Done                          11-12pm
+         - Team Gallery --Done                     12-1pm
+        - Each Member details              1-2pm   SKipping for now
 
     #Care Services we provide
         - Navbar --Done
-        - Hero                              2-3pm
-        - Services                          3-4pm
+        - Hero   -- Done                          2-3pm
+        - Services -- Done                         3-4pm
         - Mission Statement                 4-5pm
         - Footer                            5-6pm
 
@@ -39,7 +39,7 @@
 
 ##Pages
     - Homepage -- Done
-    - LQS Team
+    - LQS Team --Done
     - Care Services we provide
     - Review 
     - Contact

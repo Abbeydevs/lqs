@@ -1,5 +1,13 @@
+import ServiceGrid from "../../components/service-grid/ServiceGrid";
+import Hero from "../../components/service-hero/Hero";
+
 const Services = () => {
-  return <h1>Services</h1>;
+  return (
+    <>
+      <Hero />
+      <ServiceGrid />
+    </>
+  );
 };
 
 export default Services;

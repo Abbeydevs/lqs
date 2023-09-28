@@ -7,6 +7,7 @@ import Services from "./pages/services/Services";
 import Team from "./pages/team/Team";
 import ScrollToTop from "./helpers/ScrollToTop";
 import Navbar from "./components/navbar/Navbar";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/review" element={<Review />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
+        <Footer />
       </HashRouter>
     </>
   );
