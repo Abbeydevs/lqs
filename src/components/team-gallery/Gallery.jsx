@@ -1,4 +1,3 @@
-import martha from "../../images/martha.png";
 import "./gallery.css";
 
 import gallery from "./gallery-data";

@@ -40,3 +40,10 @@ form button {
     width: 100%;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .form-container form .names {
+    flex-direction: column;
+    gap: 0rem;
+  }
+}

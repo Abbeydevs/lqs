@@ -14,7 +14,7 @@ const serviceCard = [
     title: "Personalized Care Planning",
     description:
       "Each resident at LQS receives a personalised care plan developed in collaboration with them and their families.",
-    link: "/",
+    url: "/",
     link: ["Learn more", <RxExternalLink />],
   },
   {

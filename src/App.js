@@ -12,10 +12,10 @@ import Footer from "./components/footer/Footer";
 function App() {
   return (
     <>
-      <HashRouter>
+      <HashRouter forceRefresh={true}>
         <ScrollToTop />
         <Navbar />
-        <Routes>
+        <Routes forceRefresh={true}>
           <Route path="*" element="404 page" />
           <Route exact path="/" element={<Homepage />} />
           <Route path="/the-team" element={<Team />} />
